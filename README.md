@@ -35,7 +35,7 @@ Builder of the new Software 2.0
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/elifmeseci)](https://twitter.com/dogukanburda)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elifmeseci/)](https://www.linkedin.com/in/dogukankefeli/)
-![Mail Badge](https://img.shields.io/badge/mailto%3A-dogukankefeli%60gmail.com-black)
+![Mail Badge](https://img.shields.io/badge/mailto%3A-dogukankefeli%40gmail.com-black)
 
 
 
