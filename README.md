@@ -3,8 +3,9 @@
 Science is process of getting knowledge by fitting theories to empirical evidence (knowledge gaining)  
 and studying, modelling and abstraction of the natural world into ways we can understand.
 
-If you wanna find deep insights to the world study physics and computer science
+If you wanna find deep insights to the world study physics and computer science  
 
+Istanbul Technical University - Physics Engineering '22
 
 
 Builder of the new Software 2.0  
